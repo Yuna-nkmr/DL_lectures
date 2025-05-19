@@ -5,5 +5,6 @@ Deep Learning lectures 2025spring
 ## Notebook Versions
 
 - **v1**: Initial copy of the homework notebook.
-- **v2**: 
-- **v3**: 
+- **v1_lr0.005_add_layers3**: change in learning rate to 0.005 (based on the visualization on the WandB) and added more layers
+- ****: 
+
